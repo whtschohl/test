@@ -44,5 +44,3 @@ I'm looking for opportunities where I can keep innovating and add real value to 
 ![Static Badge](https://img.shields.io/badge/MQTT-black?logo=mqtt&labelColor=purple&color=white)
 ![Static Badge](https://img.shields.io/badge/Postman-black?logo=postman&labelColor=white&color=orange)
 ![Static Badge](https://img.shields.io/badge/STM32_CubeMX-black?logo=stmicroelectronics&labelColor=blue&color=white)
-
-## Projects
